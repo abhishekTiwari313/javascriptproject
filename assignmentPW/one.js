@@ -1,5 +1,5 @@
 //write a javascript program that checks if the eneter password matches the confirmed password . if the password match, the program should log "password match". password validation successful . to the console otherwise , it should log "Password didn't match .password validation unsuccessful" to the console.
-// Get user input for password and confirmed password
+// Get user input for password and confirmed passwords
 let password = "Abhishek";
 let confirmedPassword = "Abhishek";
 
